@@ -1,0 +1,15 @@
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\Shopping_List.csproj.AssemblyReference.cache
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\Shopping_List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\Shopping_List.AssemblyInfoInputs.cache
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\Shopping_List.AssemblyInfo.cs
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\Shopping_List.csproj.CoreCompileInputs.cache
+C:\Users\bleat\source\repos\Shopping_List\bin\Debug\net6.0\Shopping_List.exe
+C:\Users\bleat\source\repos\Shopping_List\bin\Debug\net6.0\Shopping_List.deps.json
+C:\Users\bleat\source\repos\Shopping_List\bin\Debug\net6.0\Shopping_List.runtimeconfig.json
+C:\Users\bleat\source\repos\Shopping_List\bin\Debug\net6.0\Shopping_List.dll
+C:\Users\bleat\source\repos\Shopping_List\bin\Debug\net6.0\Shopping_List.pdb
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\Shopping_List.dll
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\refint\Shopping_List.dll
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\Shopping_List.pdb
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\Shopping_List.genruntimeconfig.cache
+C:\Users\bleat\source\repos\Shopping_List\obj\Debug\net6.0\ref\Shopping_List.dll
